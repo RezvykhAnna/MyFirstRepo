@@ -1,2 +1,2 @@
-# MyFirstRepo
+# crm-system
 Мой первый репозиторий
